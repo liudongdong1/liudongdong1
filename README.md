@@ -32,16 +32,3 @@ https://github.com/kautukkundan/Awesome-Profile-README-templates https://github.
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<!--
-#### :bar_chart: Weekly development breakdown
-
-<!--START_SECTION:waka-->
-```text
-Java    10 hrs 38 mins   ████████▓░░░░░░░░░░░░░░░░   35.25 % 
-Other   7 hrs 14 mins    ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-c#    2 hrs 16 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-python    2 hrs 7 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-C++     2 hrs 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-```
-<!--END_SECTION:waka-->
--->
