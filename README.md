@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/ouuan/ouuan/master/README.md
 https://resume.github.io/  # resume maker
 https://github.com/anuraghazra/github-readme-stats    
 [www.webfx.com/tools/emoji-cheat-sheet/ ](www.webfx.com/tools/emoji-cheat-sheet/)  #github emoj
+https://github.com/kautukkundan/Awesome-Profile-README-templates https://github.com/abhisheknaiidu/awesome-github-profile-readme  #template
 -->
 ## Hey, liudongdong1 here!  :wave: [![ ](https://cfrating.ihcr.top/?user=liudongdong1&style=flat-square)](https://codeforces.com/profile/liudongdong1)
 
@@ -31,6 +32,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+<!--
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
@@ -42,3 +44,4 @@ python    2 hrs 7 mins   █▓░░░░░░░░░░░░░░░░�
 C++     2 hrs 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 ```
 <!--END_SECTION:waka-->
+-->
