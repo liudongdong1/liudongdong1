@@ -12,7 +12,7 @@ https://github.com/kautukkundan/Awesome-Profile-README-templates https://github.
 
 - A Computer Engineering Master Student. & Open Source enthusiast.
 -   :package: Smart IOT | Computer Vision | Wireless Sensing | Human-Physic-Object Interaction
--   :pencil2: [CSDN blog](https://liudongdong1.github.io/)  |  [GitPage](https://liudongdong1.github.io/)
+-   :pencil2: [CSDN blog](https://blog.csdn.net/liudongdong19)  |  [GitPage](https://liudongdong1.github.io/)
 -   :house: To be a Photographer | Cooker, that's a question ~
 -   :man: Hobby: Coding | Running | Swimming | Baseball | Badminton
 ---
